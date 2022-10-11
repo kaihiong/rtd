@@ -20,5 +20,9 @@ Contents
 
    usage
    api
+   :maxdepth: 2
+   :caption: Contents:
    notebooks/Charts_in_Colaboratory
+   :maxdepth: 2
+   :caption: Contents:
    notebooks/Overview_of_Colaboratory_Features
