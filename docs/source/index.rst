@@ -20,3 +20,7 @@ Contents
 
    usage
    api
+   :maxdepth: 2
+   :caption: Contents:
+
+   notebooks/basic_retrieval
