@@ -1,5 +1,5 @@
 python:
-  # Install our python package before building the docs
+  version: 3
   install:
-    - method: pip
-      path: .
+    - requirements: docs/requirements.txt
+  system_packages: true
