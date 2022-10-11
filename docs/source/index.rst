@@ -19,4 +19,6 @@ Contents
 .. toctree::
    usage
    api
+   :maxdepth: 2
+   :caption: Contents:
    notebook/Charts_in_Colaboratory
