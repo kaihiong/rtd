@@ -17,10 +17,6 @@ Contents
 --------
 
 .. toctree::
-
+   :numbered:
    usage
    api
-   :maxdepth: 2
-   :caption: Contents:
-   :name: mastertoc
-   notebooks/Charts_in_Colaboratory
