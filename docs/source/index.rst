@@ -19,4 +19,4 @@ Contents
 .. toctree::
    usage
    api
- 
+   notebook/Charts_in_Colaboratory
