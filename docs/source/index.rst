@@ -14,7 +14,7 @@ Contents
 
 .. toctree::
    usage
-   api
+   resources
    
    :maxdepth: 2
    :caption: Contents:
