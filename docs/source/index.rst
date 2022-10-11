@@ -20,3 +20,4 @@ Contents
    :numbered:
    usage
    api
+   projects
