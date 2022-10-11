@@ -17,5 +17,5 @@ Contents
    resources
    
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Google Colaboratory
    notebooks/Charts_in_Colaboratory
