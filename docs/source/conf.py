@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Kai Machine Learning Laboratory'
+project = 'Kai\'s Machine Learning Laboratory'
 copyright = '2022, Kai Hiong'
 author = 'Kai Hiong'
 
