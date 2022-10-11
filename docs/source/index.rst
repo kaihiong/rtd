@@ -23,4 +23,4 @@ Contents
    :maxdepth: 2
    :caption: Contents:
 
-   notebooks/basic_retrieval
+   notebooks/Charts_in_Colaboratory
