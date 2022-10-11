@@ -1,13 +1,9 @@
-Welcome to Lumache's documentation!
+Welcome to Kai's Machine Learning Laboratory!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Hello there! In this repository, you'll find useful information on machine learning and artificial intelligence. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Want to know what we can do with machine learning? Head over to the *use cases* page. If you're a developer, head over to the *API* section to . Head over to the *projects* page to find out more about projects utilising machine learning in NIE.  
 
 .. note::
 
