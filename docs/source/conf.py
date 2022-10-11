@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Kai Machine Learning Laboratory'
+copyright = '2022, Kai Hiong'
+author = 'Kai Hiong'
 
 release = '0.1'
 version = '0.1.0'
