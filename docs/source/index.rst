@@ -12,9 +12,18 @@ Want to know what we can do with machine learning? Head over to the *Use Cases* 
 Contents
 --------
 
-.. toctree::
+.. toctree::  
+   :maxdepth: 2
+   :hidden:
+   :glob:
+   :caption: Usage
+    
    usage
    
+.. toctree::  
    :maxdepth: 2
+   :hidden:
+   :glob:
    :caption: Google Colaboratory
+   
    resources
