@@ -44,3 +44,5 @@ Contents
    :hidden:
    :glob:
    :caption: Resources
+   
+   resources/index
