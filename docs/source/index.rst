@@ -44,3 +44,4 @@ Contents
    :caption: Resources
    
    resources/index
+   resources/aws
