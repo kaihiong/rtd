@@ -18,7 +18,23 @@ Contents
    :glob:
    :caption: Usage
     
-   usage
+   usage/index
+
+.. toctree::  
+   :maxdepth: 2
+   :hidden:
+   :glob:
+   :caption: Resources
+    
+   resources/index
+   
+.. toctree::  
+   :maxdepth: 2
+   :hidden:
+   :glob:
+   :caption: Projects
+    
+   projects/index
    
 .. toctree::  
    :maxdepth: 2
@@ -26,4 +42,4 @@ Contents
    :glob:
    :caption: Google Colaboratory
    
-   resources
+   notebooks/Charts_in_Colaboratory
