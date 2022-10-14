@@ -14,8 +14,7 @@ Contents
 
 .. toctree::
    usage
-   resources
    
    :maxdepth: 2
    :caption: Google Colaboratory
-   notebooks/Charts_in_Colaboratory
+   resources
