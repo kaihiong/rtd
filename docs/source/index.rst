@@ -19,12 +19,6 @@ Contents
    :caption: Usage
     
    usage/index
-
-.. toctree::  
-   :maxdepth: 2
-   :hidden:
-   :glob:
-   :caption: Resources
     
    resources/index
    
@@ -45,3 +39,8 @@ Contents
    notebooks/Overview_of_Colaboratory_Features
    notebooks/Charts_in_Colaboratory
    
+.. toctree::  
+   :maxdepth: 2
+   :hidden:
+   :glob:
+   :caption: Resources
