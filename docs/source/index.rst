@@ -42,4 +42,6 @@ Contents
    :glob:
    :caption: Google Colaboratory
    
+   notebooks/Overview_of_Colaboratory_Features
    notebooks/Charts_in_Colaboratory
+   
