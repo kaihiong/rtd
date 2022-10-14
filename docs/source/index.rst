@@ -19,8 +19,6 @@ Contents
    :caption: Usage
     
    usage/index
-    
-   resources/index
    
 .. toctree::  
    :maxdepth: 2
